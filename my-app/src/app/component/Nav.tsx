@@ -6,7 +6,7 @@ export default function nav() {
   return (
     <div>
       <Link href=" ">
-        <h1> </h1>
+        <h4>this is nav</h4>
       </Link>
 
       <ul className="nav justify-content-center">
