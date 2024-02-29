@@ -9,7 +9,16 @@ export default function nav() {
         <h4>this is nav</h4>
       </Link>
 
+
+
+
+
+
       <ul className="nav justify-content-center">
+
+
+
+
         <li className="nav-item">
           <Link
             className="nav-link active"
@@ -19,6 +28,9 @@ export default function nav() {
             blog
           </Link>
         </li>
+
+
+
 
         <li className="nav-item">
           <Link className="nav-link" href="../page/UsersController/register">
