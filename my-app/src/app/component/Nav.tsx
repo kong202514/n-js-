@@ -39,7 +39,7 @@ export default function nav() {
         </li>
 
         <li className="nav-item">
-          <Link className="nav-link" href="../page/aboutus">
+          <Link className="nav-link" href="../page/UsersController/login">
             login
           </Link>
         </li>
