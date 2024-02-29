@@ -21,7 +21,7 @@ export default function nav() {
         </li>
 
         <li className="nav-item">
-          <Link className="nav-link" href="../page/register">
+          <Link className="nav-link" href="../page/UsersController/register">
             register
           </Link>
         </li>
